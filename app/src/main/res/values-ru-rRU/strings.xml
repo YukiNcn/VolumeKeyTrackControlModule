@@ -60,6 +60,7 @@
     <string name="rewind_duration">Длительность перемотки: %d сек</string>
     <string name="rewind_duration_dialog_title">Установить длительность перемотки</string>
     <string name="edit_rewind_duration">Изменить длительность перемотки</string>
+    <string name="add_secondary_action">Добавить дополнительное действие</string>
 
     <string name="settings_reset">Сбросить настройки</string>
     <string name="settings_reset_message">Вы уверены, что хотите сбросить настройки?</string>
